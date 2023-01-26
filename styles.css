@@ -95,9 +95,12 @@ section {
 .product-service{
     position: relative;
     font-family: 'Roboto', sans-serif;
-    top: 200px;
-    left: 400px;
+    align-items: center;
+    justify-content: center;
 }
 .product-service h2{
     font-size: 30px;
+}
+.products-container{
+    font-size: 20px;
 }
