@@ -104,3 +104,11 @@ section {
 .products-container{
     font-size: 20px;
 }
+
+/* TEAM SECTION*/
+.teamates{
+    position: relative;
+    font-family: 'Roboto', sans-serif;
+    align-items: center;
+    justify-content: center;
+}
