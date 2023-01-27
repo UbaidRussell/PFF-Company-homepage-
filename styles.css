@@ -27,7 +27,7 @@ header {
   }
   
   header .logo {
-    font-size: 50px;
+    font-size: 30px;
     flex: 1;
     text-decoration: none;
     color:  black;
@@ -57,8 +57,8 @@ header {
     color: red;
   }
 .logo{
-    height: 50px;
-    width: 50px;
+    height: 30px;
+    width: 30px;
   }
 
 /*Section Code This is where we create our scroll effect*/
