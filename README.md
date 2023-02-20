@@ -1,5 +1,5 @@
 # PFF-Company-homepage
-Responsive Company homepage. This is a project we worked on for fun to challenge our design and technical skills. Tell me what you think or give the project a star I don't mine ⭐️🤍
+Responsive Company homepage. This is a project we worked on for fun to challenge our design and technical skills. Tell me what you think or give the project a star I don't mind ⭐️🤍
 
 ## Table of contents
 - [Overview](#overview)
