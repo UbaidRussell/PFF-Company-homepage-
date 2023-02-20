@@ -67,4 +67,4 @@ section {
 
 
 ## Acknowledgments
-Shoutout to all the developers who created the tools for me to create and make this possible.
+Shoutout to all the developers who created the tools for me to create and make this possible 🤍
