@@ -161,3 +161,24 @@ footer {
 }
 
 }
+
+/*Mobile Media Query*/
+
+@media only screen and (min-width: 0px) and (max-width: 700px){
+  section {
+    scroll-snap-align: none;
+    scroll-snap-stop: normal;
+    display: flex;
+  }
+  .mission-statement{
+    font-size: 20px;
+}
+  nav li{
+  display: none;
+ 
+}
+.desktop-logo{
+  font-size: 5rem;
+}
+
+}
