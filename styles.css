@@ -180,5 +180,12 @@ footer {
 .desktop-logo{
   font-size: 5rem;
 }
+header .logo {
+  font-size: 4rem;
+}
+.logo{
+  height: 60px;
+  width: 60px;
+}
 
 }
