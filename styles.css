@@ -182,12 +182,12 @@ footer {
   .mission-statement{
     display: block;
     padding-top: 100px;
-    padding-bottom:500px;
+    padding-bottom:00px;
     margin-bottom: 500px;
     width: 100%;
     height:200px;
     z-index: 2;
-    font-size: 75;
+    font-size: 75px;
   }
   
   section:nth-of-type(odd) {
