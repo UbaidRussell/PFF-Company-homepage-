@@ -177,14 +177,17 @@ footer {
   display: none;
  
 }
+header{
+  font-size: 4rem;
+}
+}
 header .logo {
   font-size: 4rem;
   height: 60px;
   width: 60px;
 }
-header .content{
+/*header .content{
   font-size: 4rem;
   height: 60px;
   width: 60px;
-}
-}
+}*/
