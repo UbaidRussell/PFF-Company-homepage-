@@ -165,7 +165,6 @@ nav li {
 .product-service{
   margin: 0;
   margin-top: 900px;
-
   position: relative;
   display: block;
   height: 100%;
@@ -173,7 +172,7 @@ nav li {
   top:auto;
   padding:50px;
   background-color: #000000;
-  color: rgb(128, 0, 0);
+  color: #e1ad01;
   font-size: medium;
 
 }
