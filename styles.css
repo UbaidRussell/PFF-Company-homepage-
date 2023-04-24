@@ -56,13 +56,13 @@ nav a:hover{
 .mission-statement{
   font-family: 'Aboreto', cursive;
   position: relative;
-  font-size: 5vh;
-  padding-top: 100px;
   display: block;
+  padding: 200px;
 }
 .quote{  
   color: black;
   text-align: center;
+  font-size: 75px;
 }
 
 /*product-service*/
