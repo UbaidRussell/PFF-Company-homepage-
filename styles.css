@@ -57,7 +57,7 @@ nav a:hover{
   font-family: 'Aboreto', cursive;
   position: relative;
   display: block;
-  padding: 200px;
+  padding: 300px;
 }
 .quote{  
   color: black;
@@ -67,7 +67,8 @@ nav a:hover{
 
 /*product-service*/
 .product-service{
-  display: grid;
+  margin: 400px;
+  display: flex;
   position: relative;
   font-family: 'Roboto', sans-serif;
   align-items: center;
