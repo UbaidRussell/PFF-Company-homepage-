@@ -181,4 +181,7 @@ nav li {
   position: relative;
   display: block;
 }
+.teamates-container{
+  grid-gap: 50px;
+}
 }
