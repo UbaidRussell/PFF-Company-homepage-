@@ -67,6 +67,7 @@ nav a:hover{
 
 /*product-service*/
 .product-service{
+  padding-top: 250px;
   margin: 400px;
   display: flex;
   position: relative;
@@ -83,6 +84,7 @@ nav a:hover{
 
 /* TEAM SECTION*/
 .teamates{
+  padding:100px;
   position: relative;
   font-family: 'Roboto', sans-serif;
 }
@@ -110,7 +112,7 @@ nav a:hover{
 /*Footer Section*/
 footer {
   position: relative;
-  background-color: #000000;
+  background-color: #e1ad01;
   padding: 1.5rem 2rem;
 }
 
